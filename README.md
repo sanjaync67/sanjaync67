@@ -1,30 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm <span id="name"></span> 👨‍💻
 
-<h1 align="center">Hi 👋, I'm Sanjay NC</h1>
-<h3 align="center">Java Developer</h3>
+<!-- Dynamic Typing Effect -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaync67&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaync67" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaync67" alt="sanjaync67" /></a> </p>
-
-- 🌱 I’m currently learning **devops , react**
-
-- 💬 Ask me about **Java ,HTML,CSS ,Javascript**
-
-- 📫 How to reach me **sanjaync67@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjay-n-c-a19324277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjay-n-c-a19324277" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/573131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="573131" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Hi+I'm+Sanjay+NC;Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;Deep+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaync67&show_icons=true&locale=en&layout=compact" alt="sanjaync67" /></p>
+## 🧠 Project Title
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaync67&show_icons=true&locale=en" alt="sanjaync67" /></p>
+### **Advanced Deep Learning Approach for Alzheimer's Disease Prediction and Classification**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaync67&" alt="sanjaync67" /></p>
+📌 This project focuses on predicting and classifying Alzheimer's Disease using **Deep Learning (CNN models)** applied on **MRI brain images**. The goal is to assist early diagnosis by accurately identifying disease stages.
 
+### 🔍 Key Features
+
+* MRI image preprocessing
+* CNN-based deep learning models
+* Disease stage classification
+* Improved prediction accuracy
+* Real-world healthcare application
+
+---
+
+## 🛠️ Skills & Technologies
+
+💡 **Skilled In:**
+
+* ☕ Java
+* 🌱 Spring Boot
+* ⚛️ React.js
+* 📜 JavaScript
+* 🗄️ SQL
+* 🌐 HTML
+* 🎨 CSS
+* 🧠 Data Structures & Algorithms (DSA) in Java
+
+---
+
+## 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science Engineer
+* 💻 Passionate about Software Development & AI
+* 🤖 Interested in Deep Learning & Healthcare Applications
+* 🌱 Always learning new technologies
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: *Add your LinkedIn link here*
+* 📧 Email: *Add your email here*
+* 🌐 Portfolio: *Add portfolio link if available*
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!* ⭐
+
+---
+
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
