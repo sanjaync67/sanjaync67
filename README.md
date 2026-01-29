@@ -1,76 +1,69 @@
-# 👋 Hi, I'm <span id="name"></span> 👨‍💻
+## Hi there 👋
 
-<!-- Dynamic Typing Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sanjay+ N C;Java+Full+Stack+Developer;Aspiring+Software+Engineer"/>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Hi+I'm+Sanjay+NC;Java+%7C+Spring+Boot+Developer;Full+Stack+Developer;Deep+Learning+Enthusiast" alt="Typing SVG" />
+<!-- <p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V4ZmZjcDg4M3ByNmN6dDd0ZmVsNTlodXAyZWg0dXA5NTcyZHdoeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.webp" width="200" height="200"/>
+</p> -->
+
+---
+
+### 🙋‍♂️ About Me
+- 🎓 Computer Science Graduate  
+- 💻 Strong in **Core Java ,Sql & Problem Solving**  
+- 🧠 Built a ** Advance Deep Learning CNN project for Alzheimer’s disease prediction and its classification**  
+- 🌱 Currently improving **DSA & Backend Development**  
+- 🎯 Targeting **Software Engineer /Developer roles**
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,sql,javascript" />
+</p>
+
+#### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+#### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+#### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
 
 ---
 
-## 🧠 Project Title
-
-### **Advanced Deep Learning Approach for Alzheimer's Disease Prediction and Classification**
-
-📌 This project focuses on predicting and classifying Alzheimer's Disease using **Deep Learning (CNN models)** applied on **MRI brain images**. The goal is to assist early diagnosis by accurately identifying disease stages.
-
-### 🔍 Key Features
-
-* MRI image preprocessing
-* CNN-based deep learning models
-* Disease stage classification
-* Improved prediction accuracy
-* Real-world healthcare application
+### 📌 Academic Project
+**🧠 Advance Deep Learning Approach For Alzheimer’s Disease Prediction and its Classification**
+- Built a **CNN model** on MRI dataset
+- Classified Alzheimer’s stages
+- Hands-on **image processing + deep learning**
+- Applied data preprocessing and augmentation techniques to improve model performance
+- Evaluated the model using multi-class classification metrics
 
 ---
 
-## 🛠️ Skills & Technologies
-
-💡 **Skilled In:**
-
-* ☕ Java
-* 🌱 Spring Boot
-* ⚛️ React.js
-* 📜 JavaScript
-* 🗄️ SQL
-* 🌐 HTML
-* 🎨 CSS
-* 🧠 Data Structures & Algorithms (DSA) in Java
-
----
-
-## 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+### 🤝 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/sanjay-n-c-a19324277">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:sanjaync67@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-* 🎓 Computer Science Engineer
-* 💻 Passionate about Software Development & AI
-* 🤖 Interested in Deep Learning & Healthcare Applications
-* 🌱 Always learning new technologies
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: *Add your LinkedIn link here*
-* 📧 Email: *Add your email here*
-* 🌐 Portfolio: *Add portfolio link if available*
-
----
-
-⭐ *If you like my work, consider giving a star to my repositories!* ⭐
-
----
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+⭐ *Small progress every day builds unstoppable momentum.*
