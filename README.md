@@ -1,8 +1,12 @@
 ## Hi there 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sanjay+ N C;Java+Full+Stack+Developer;Aspiring+Software+Engineer"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%20I%27m%20Sanjay%20NC;Java%20Developer;Full%20Stack%20Enthusiast;Aspiring%20Software%20Engineer" 
+    alt="Typing SVG" 
+  />
 </h1>
+
 
 <!-- <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V4ZmZjcDg4M3ByNmN6dDd0ZmVsNTlodXAyZWg0dXA5NTcyZHdoeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.webp" width="200" height="200"/>
